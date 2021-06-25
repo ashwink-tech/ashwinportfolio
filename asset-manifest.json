@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9bd0bcf.chunk.css",
+    "main.css": "/static/css/main.adcc32b3.chunk.css",
     "main.js": "/static/js/main.ee69b232.chunk.js",
     "main.js.map": "/static/js/main.ee69b232.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dac38126.js",
@@ -16,7 +16,7 @@
     "index.html": "/index.html",
     "static/css/3.f01de962.chunk.css.map": "/static/css/3.f01de962.chunk.css.map",
     "static/css/4.c8ea90b0.chunk.css.map": "/static/css/4.c8ea90b0.chunk.css.map",
-    "static/css/main.d9bd0bcf.chunk.css.map": "/static/css/main.d9bd0bcf.chunk.css.map",
+    "static/css/main.adcc32b3.chunk.css.map": "/static/css/main.adcc32b3.chunk.css.map",
     "static/js/2.68d00637.chunk.js.LICENSE.txt": "/static/js/2.68d00637.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/ashwin-coffee.png": "/static/media/ashwin-coffee.794b955c.png",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.dac38126.js",
     "static/js/2.68d00637.chunk.js",
-    "static/css/main.d9bd0bcf.chunk.css",
+    "static/css/main.adcc32b3.chunk.css",
     "static/js/main.ee69b232.chunk.js"
   ]
 }
